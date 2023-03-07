@@ -1,5 +1,3 @@
-# @royalf1sh/vue-phone-mask
-
 [![Version](https://img.shields.io/npm/v/vue-phone-mask-input.svg)](https://www.npmjs.com/package/vue-phone-mask)
 [![License](https://img.shields.io/npm/l/vue-phone-mask-input.svg)](https://www.npmjs.com/package/vue-phone-mask)
 [![Monthly Downloads](https://img.shields.io/npm/dm/vue-phone-mask-input.svg)](https://www.npmjs.com/package/vue-phone-mask)
